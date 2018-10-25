@@ -1,1 +1,1 @@
-it is basic java program for calculator.
+it is basic java program to implement calculator.
